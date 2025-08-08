@@ -20,6 +20,8 @@
       Author of langcodes, language_data: Robyn Speer (rspeer@arborelia.net)
       Project at https://github.com/rspeer/langcodes
     </description>
+    <forum></forum>
+      <source>https://github.com/fbacher/script.module.langcodes</source>
     <platform>all</platform>
     <license> MIT License (langcodes and marisa_trie)</license>
   </extension>
