@@ -17,4 +17,4 @@ Author of maria-trie: Susumu Yata <susumu.yata@gmail.com>
 Author of langcodes, language_data: Robyn Speer <rspeer@arborelia.net>
 [Project](https://github.com/rspeer/langcodes)
 
-NOTE: this addon is not yet in the repository. Must download and install the [repository .zip file](http://smeagol/repo/zipsURL_LANGCODES_ZIP.LANGCODES_ZIP_VERSION).
+NOTE: this addon is not yet in the repository. Must download and install the [repository .zip file](URL_ZIPS-https://feuerbacher.us/repo/repo/zips/script.module.langcodes/script.module.langcodes-3.4.0~alpha.zip.LANGCODES_ZIP_VERSION).
